@@ -38,7 +38,7 @@ Includes:
 
 3. Clone this repository.
 
-4. Open this project in VSCode.
+4. Open the `Standard Date Formats` folder in VSCode.
 
 ## Contributing
 
