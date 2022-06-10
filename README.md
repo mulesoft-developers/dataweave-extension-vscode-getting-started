@@ -2,7 +2,7 @@
 	<img
 	width="150"
 	src="/images/max-terminal.gif"></br>
-	Getting started with the DataWeave extension for Visual Studio Code (VSCode)<br>     
+	Getting started with the DataWeave extension for Visual Studio Code<br>     
 </h1>
 
 <h4 align="center">
@@ -17,9 +17,7 @@
 
 ## Tutorial and Video
 
-For a step by step tutorial navigate to the MuleSoft developer website [here]()
-
-For a video of the tutorial go [here]().
+For a step by step tutorial navigate to the MuleSoft developer website [here](https://developer.mulesoft.com/tutorials-and-howtos/dataweave/dataweave-extension-vscode-getting-started/)
 
 ## Overview
 
